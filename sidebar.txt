@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gea:home|Door43 (gea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gea|d43-gea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gea/archive/master.zip|d43-gea.zip]]
+
+**Recent Changes**
+{{changes>ns = gea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gea|Ethnologue data]]
+
